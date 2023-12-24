@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anup Muttha</h1>
 <h3 align="center">A Passionate Software Developer from India</h3>
 
+-Currently, A Final year Student of Artificial Intelligence and Data Science Engineering
+
 - 🌱 I’m currently learning **Data Science and Machine Learning**
 
 - 📫 How to reach me **anupmuttha666@gmail.com**
