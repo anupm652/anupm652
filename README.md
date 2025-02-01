@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/anupm652" target="blank"><img src="https://img.shields.io/twitter/follow/anupm652?logo=twitter&style=for-the-badge" alt="anupm652" /></a> </p>
 
-- Currently , A Final year Student of Artificial Intelligence and Data Science Engineering
+- Artificial Intelligence and Data Science Engineering
 
 - 🌱 I’m currently learning **Data Science and Machine Learning**
 
